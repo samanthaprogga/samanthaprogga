@@ -1,9 +1,13 @@
 ![logo](https://github.com/samanthaprogga/samanthaprogga/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Nishat Samanta Progga</h1>
-<h3 align="center">I'm a creative and enthusiastic software developer with a talent for translating concepts into well-written code. 
-  I thrive in the fast-paced, constantly-evolving field of technology, where I'm always looking for new possibilities to learn and 
-  use cutting-edge solutions to solve problems in the real world.</h3>
+<h3 align="center">I'm a dynamic, imaginative software developer that can turn concepts into effective code. I thrive in the quick-changing world of technology and am always looking for new ways to learn and apply cutting-edge approaches to solve problems in the real world. Beyond syntax, I'm passionate about creating solutions that enable innovation in software development.
+
+
+
+
+I enjoy the challenge of keeping up with the times and making quick adaptations in the ever-evolving realm of technology. My interest is piqued by the ongoing change, which inspires me to accept new trends and venture into uncharted territory. Having a natural passion for solving problems, I view every coding project as an opportunity to make a significant contribution to the exciting and revolutionary field of software development.
+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanthaprogga&label=Profile%20views&color=0e75b6&style=flat" alt="samanthaprogga" /> </p>
 

@@ -1,4 +1,4 @@
-![logo](https://github.com/samanthaprogga/samanthaprogga/blob/main/banner.png)
+![logo](https://github.com/samanthaprogga/samanthaprogga/blob/main/banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Nishat Samanta Progga</h1>
 <h3 align="center"> I write creative code that transforms concepts into effective fixes. I adore applying cutting-edge solutions to practical issues, and I thrive in the fast-paced world of technology.

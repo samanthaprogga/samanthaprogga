@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Nishat Samanta Progga</h1>
 <h3> I write creative code that transforms concepts into effective fixes. I adore applying cutting-edge solutions to practical issues, and I thrive in the fast-paced world of technology.
 
+
+
 I like being up to date and quickly adapting in an ever-changing sector. Every coding work is an opportunity to make a meaningful contribution to the ever-evolving field of software development if you have a strong problem-solving enthusiasm.
 </h3>
 

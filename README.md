@@ -41,4 +41,4 @@ contribution to the ever-evolving field of software development if you have a st
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samanthaprogga&show_icons=true&locale=en" alt="samanthaprogga" /></p>
 
 ###
-[![Samanta's github activity graph](
+[![Samanta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samanthaprogga&bg_color=2f2d2e&color=d1daff&line=a7bcec&point=76767f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

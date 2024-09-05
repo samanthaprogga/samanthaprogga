@@ -25,15 +25,20 @@ contribution to the ever-evolving field of software development if you have a st
 
 <h2 align="left"> My Skills</h2>
 
-![JavaScript](https://img.shields.io/badge/CODE-JAVASCRIPT-blue?style=for-the-badge
-)
-![HTML5](https://img.shields.io/badge/WEB-HTML-blue?style=for-the-badge
-)
-![CSS3](https://img.shields.io/badge/WEB-CSS-blue?style=for-the-badge
-)
-![Software](https://img.shields.io/badge/SOFTWARE-MICROSOFT-blue?style=for-the-badge
-)
+Here’s how you can represent the additional skills in a similar badge format:
 
+![JavaScript](https://img.shields.io/badge/CODE-JAVASCRIPT-blue?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/WEB-HTML-blue?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/WEB-CSS-blue?style=for-the-badge)
+![Software](https://img.shields.io/badge/SOFTWARE-MICROSOFT-blue?style=for-the-badge)
+![C#](https://img.shields.io/badge/CODE-C%23-blue?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/TECH-LINQ-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/DATABASE-SQL-blue?style=for-the-badge)
+![Database](https://img.shields.io/badge/DATABASE-MySQL-blue?style=for-the-badge)
+![.NET](https://img.shields.io/badge/FRAMEWORK-.NET-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/WEB-React-blue?style=for-the-badge)
+
+You can copy-paste these directly into a markdown-supported area or profile section that allows custom HTML or markdown to display these badges.
 ## Statistics
 
 

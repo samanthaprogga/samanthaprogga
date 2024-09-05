@@ -1,4 +1,4 @@
-![logo](https://github.com/samanthaprogga/samanthaprogga/blob/main/banner%20(1).png)
+![logo](banner.github.jpg)
 
 <h1 align="center">Hi 👋, I'm Nishat Samanta Progga</h1>
 

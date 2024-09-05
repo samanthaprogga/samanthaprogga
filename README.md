@@ -3,14 +3,13 @@
 <h1 align="center">Hi 👋, I'm Nishat Samanta Progga</h1>
 
 
-I write creative code that transforms concepts into effective fixes. I adore applying cutting-edge solutions to practical issues, 
-and I thrive in the fast-paced world of technology.
+A dedicated software development student with a strong foundation in programming, problem-solving, and teamwork. My experience in .NET development allows me to create efficient applications, with skills spanning from database management to front-end development. I thrive on delivering quality work and balancing both independent and collaborative projects.
 
+Check out my portfolio: [Portfolio](https://samanthaprogga.github.io/my-portfolio/)
 
+I’m always learning and adapting to new technologies. Alongside my technical expertise, my experience as a Brand Ambassador has sharpened my communication and customer engagement abilities.
 
-
-I like being up to date and quickly adapting in an ever-changing sector. Every coding work is an opportunity to make a meaningful 
-contribution to the ever-evolving field of software development if you have a strong problem-solving enthusiasm.
+I’m eager to explore new opportunities and contribute to meaningful projects as I advance my career.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanthaprogga&label=Profile%20views&color=0e75b6&style=flat" alt="samanthaprogga" /> </p>
 
